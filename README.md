@@ -59,10 +59,3 @@
   <a href="mailto:mosamirhelal@outlook.com" target="blank"><img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=mosamirhelal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
 </div>
-
-<div align="center">
-
-  <h2 align="center">My Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosamirhelal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
-
-</div>
